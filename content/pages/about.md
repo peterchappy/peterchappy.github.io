@@ -2,8 +2,14 @@
 title: "About me"
 template: "page"
 ---
-Aenean suscipit metus nec efficitur convallis. Cras a arcu eu augue imperdiet imperdiet convallis nec ipsum. Cras facilisis, nisi nec porta molestie, quam mauris dapibus lacus, vitae vestibulum nunc sem id libero. Mauris non leo sed purus luctus interdum. Sed maximus finibus magna, tempus egestas risus rutrum eu. Fusce sed ante nunc. Aliquam erat volutpat. Suspendisse sollicitudin ac urna id convallis. Maecenas ac augue nibh.
+Hi, I'm Peter Chapman
 
-Pellentesque sit amet lorem felis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas eu massa faucibus, posuere diam eget, dignissim erat. Suspendisse sit amet ultrices lectus. Maecenas nec nisl aliquet, rhoncus ligula sed, varius nibh. Vivamus pharetra lacus quis risus finibus, vitae viverra lectus tincidunt. Duis leo quam, bibendum vitae arcu nec, mollis imperdiet urna. Pellentesque at orci placerat augue congue blandit. Duis eget quam dictum, aliquam augue eu, placerat dolor. Vestibulum cursus odio tortor, ac ultricies ex laoreet a. Nulla facilisi.
+I'm a Fullstack Software Engineer from Philadelphia. I would consider myself to be a polygot, but my bread and butter is Typescript, React, and Functional Programming. Currently I'm working with the awesome team over at QuotaPath doing just that.
 
-Vivamus pellentesque sollicitudin nisi sed fringilla. Etiam ut mi vitae purus sollicitudin dictum et at ipsum. Curabitur tincidunt vehicula mi, vitae vestibulum purus lacinia non. Ut placerat, urna lacinia egestas elementum, orci velit placerat elit, in consectetur augue eros sed dui. Mauris at sem odio. Duis pulvinar neque ac felis fringilla tristique.
+I love being a software engineer. Every day I feel like the kid who grew up wanting to play basketball that actually got drafted into the NBA. I knew that I wanted to be a programmer when at an early age my dad programmed a hack for me to actually beat the original Rouge on our Atari ST.
+
+While you can expect lots of programming talk on this page you'll also find sprinkled in pictures of my cat, recipes I've crafted, reviews of movies and records, progress shots of Gunpla I'm building, and thoughts on the current state of wrestling around the world.
+
+That sounds like a lot, and it is, but as I get older I've found writing to be a good way to solidify and express my viewpoints. A friend of mine use to joke that I'd probably write a memoir one day. While this is not that, it is me planting a flag on a little piece of the internet, and creating passionate content that I enjoy, and hopefully others do too.
+
+Disclaimer: Viewpoints expressed on this page are solely mine and not those of my employer.

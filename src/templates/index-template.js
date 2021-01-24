@@ -1,22 +1,13 @@
+import { graphql, Link } from "gatsby";
 import React from "react";
-import { Link, graphql } from "gatsby";
-
 import Bio from "../components/bio";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
-import Pagination from "../components/pagination";
 
-const BlogIndex = ({ data, location, pageContext }) => {
+
+const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title;
   const { edges } = data.allMarkdownRemark;
-  const {
-    currentPage,
-    hasNextPage,
-    hasPrevPage,
-    prevPagePath,
-    nextPagePath
-  } = pageContext;
-  const currentPageInfo = currentPage > 0 ? `Page ${currentPage}` : '';
 
   if (edges.length === 0) {
     return (
@@ -31,6 +22,8 @@ const BlogIndex = ({ data, location, pageContext }) => {
       </Layout>
     )
   }
+
+
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -49,13 +42,6 @@ const BlogIndex = ({ data, location, pageContext }) => {
           )
         })}
       </ol>
-      <div className="current-page-info">{currentPageInfo}</div>
-      <Pagination
-        prevPagePath={prevPagePath}
-        nextPagePath={nextPagePath}
-        hasPrevPage={hasPrevPage}
-        hasNextPage={hasNextPage}
-      />
     </Layout>
   )
 }
