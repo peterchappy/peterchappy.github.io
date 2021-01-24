@@ -3,7 +3,7 @@
 module.exports = {
   url: `https://chapman.codes`,
   description: `my corner of the internet.`,
-  pathPrefix: '/',
+  pathPrefix: 'peterchappy.github.io',
   title: `chapman.codes`,
   disqusShortname: '',
   postsPerPage: 15,
